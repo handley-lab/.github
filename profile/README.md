@@ -4,7 +4,7 @@
 - [fgivenx](https://github.com/williamjameshandley/fgivenx)
 
 
-## Codes developed by students/postdocs
+## Public codes developed by students/postdocs
 - [Harry Bevins](https://github.com/htjb)
   - [margarine](https://github.com/htjb/margarine)
   - [maxsmooth](https://github.com/htjb/maxsmooth)
