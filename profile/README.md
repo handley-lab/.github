@@ -11,3 +11,7 @@
   - [globalemu](https://github.com/htjb/globalemu)
 - [Fruzsina Agocs](https://github.com/fruzsinaagocs)
   - [oscode](https://github.com/fruzsinaagocs/oscode) 
+
+## Talks
+- [Will Handley](https://github.com/williamjameshandley/talks)
+- [Harry Bevins](https://github.com/htjb/Talks)
