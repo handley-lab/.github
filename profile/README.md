@@ -1,7 +1,7 @@
 ## Main codes
 - [PolyChord](https://github.com/PolyChord/PolyChordLite): Next generation nested sampling
 - [anesthetic](https://github.com/williamjameshandley/anesthetic): Nested Sampling post-processing and plotting
-- [fgivenx](https://github.com/williamjameshandley/fgivenx): Functional Posterior Plotter
+- [fgivenx](https://github.com/handley-lab/fgivenx): Functional Posterior Plotter
 
 ## Public codes developed by [students/postdocs](https://www.willhandley.co.uk/students/)
 - [Harry Bevins](https://github.com/htjb)
