@@ -18,3 +18,4 @@
 ## Talks
 - [Will Handley](https://github.com/williamjameshandley/talks)
 - [Harry Bevins](https://github.com/htjb/Talks)
+- [Sam Leeney](https://github.com/samleeney/Talks)
