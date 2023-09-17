@@ -4,6 +4,8 @@
 - [fgivenx](https://github.com/handley-lab/fgivenx): Functional Posterior Plotter
 
 ## Public codes developed by [students/postdocs](https://www.willhandley.co.uk/students/)
+- [Thomas Gessey-Jones](https://github.com/ThomasGesseyJones)
+  - [prescience](https://github.com/ThomasGesseyJones/FullyBayesianForecastsExample): Fully Bayesian Forecasting with Evidence Networks
 - [Harry Bevins](https://github.com/htjb)
   - [margarine](https://github.com/htjb/margarine): Code to replicate posterior probability distributions with bijectors/KDEs and perform marginal KL/bayesian dimensionality calculations.
   - [maxsmooth](https://github.com/htjb/maxsmooth): Constrained Derivative Function Optimisation
